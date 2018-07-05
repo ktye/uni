@@ -77,12 +77,12 @@ Relations
 
 Negated relations
 	≮ \not<			≯ \not>			≠ \not=		≠ \ne
-	≰ \not\leq		≱ \not\geq		≢ \not\equiv	≠ \neq
-	⊀ \not\prec		⊁ \not\succ		≁ \not\sim
-	⋠ \not\preceq		⋡ \not\succeq		≄ \not\simeq
-	⊄ \not\subset		⊅ \not\supset		≉ \not\approx
-	⊈ \not\subseteq		⊉ \not\supseteq		≇ \not\cong
-	⋢ \not\sqsubseteq 	⋣ \not\sqsupseteq	≭ \not\asymp
+	≰ \notleq		≱ \notgeq		≢ \notequiv	≠ \neq
+	⊀ \notprec		⊁ \notsucc		≁ \notsim
+	⋠ \notpreceq		⋡ \notsucceq		≄ \notsimeq
+	⊄ \notsubset		⊅ \notsupset		≉ \notapprox
+	⊈ \notsubseteq		⊉ \notsupseteq		≇ \notcong
+	⋢ \notsqsubseteq 	⋣ \notsqsupseteq	≭ \notasymp
 
 Arrows
 	← \leftarrow		⟵ \longleftarrow	↑ \uparrow	→ \to
