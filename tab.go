@@ -121,6 +121,6 @@ func init() {
 		table = append(table, [2]string{e[1], `\` + e[2]})
 	}
 
-	// We sort the table backwards, such that \al matches before \alpha.
+	// We sort the table backwards, such that \alpha matches before \al.
 	sort.Slice(table, func(i, j int) bool { return table[i][1] > table[j][1] })
 }
