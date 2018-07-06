@@ -16,7 +16,7 @@ Lowercase Greek letters
 	δ \delta	μ \mu		τ \tau
 	ϵ \epsilon	ν \nu		υ \upsilon
 	ε \varepsilon	ξ \xi		ϕ \phi
-	ζ \zeta	ο o	φ \varphi
+	ζ \zeta	ο \o	φ \varphi
 	η \eta	π \pi	χ \chi
 	θ \theta	ϖ \varpi	ψ \psi
 	ϑ \vartheta	ρ \rho		ω \omega
